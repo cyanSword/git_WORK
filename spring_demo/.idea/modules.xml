@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_gleeman/spring_gleeman.iml" filepath="$PROJECT_DIR$/spring_gleeman/spring_gleeman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_schedule/spring_schedule.iml" filepath="$PROJECT_DIR$/spring_schedule/spring_schedule.iml" />
+    </modules>
+  </component>
+</project>

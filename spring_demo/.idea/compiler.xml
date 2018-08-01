@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/spring_gleeman/src/main/java/org/gleeman/gui" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_gleeman" />
+        <module name="spring_profile" />
+        <module name="spring_schedule" />
+        <module name="test_spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_gleeman" target="1.8" />
+      <module name="spring_profile" target="1.8" />
+      <module name="spring_schedule" target="1.8" />
+      <module name="test_spring" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
