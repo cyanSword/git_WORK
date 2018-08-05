@@ -1,6 +1,5 @@
 <template>
 	<div>
-	<masthed/>
 	<midCarousel/>
 	<homeContent/>
     <Footer/>
